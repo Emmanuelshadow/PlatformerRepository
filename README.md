@@ -1,4 +1,3 @@
-# Shoot-em-up
+# Platformer
 
-This is the first git projet
-A Shmup
+This is the a simple Platformer.
